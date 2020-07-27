@@ -1,0 +1,19 @@
+.container{
+    border: 2px solid black;
+    border-radius: 2px;
+    width: 50%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.row{
+    border: 1px solid black;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.row img:hover{
+    box-shadow:2px 2px 2px 2px pink;
+}
+
